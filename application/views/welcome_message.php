@@ -64,7 +64,7 @@
                     <td><?php echo $item->title; ?></td>
                     <td><?php echo $item->isActive == 0 ? "Pasif" : "Aktif"; ?></td>
                     <td><?php echo $item->createdAt; ?></td>
-                    <td>Sil - Güncelle</td>
+                    <td>SİL - GÜNCELLE</td>
                     </tr>
 
                     <?php }?>
